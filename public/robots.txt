@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /static/
+
+Sitemap: https://wordcraft.vercel.app/sitemap.xml

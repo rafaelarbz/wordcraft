@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"> 
+    <rect width="120" height="120" rx="20" fill="#FFC107"/> 
+    
+    <g transform="translate(12,12)"> 
+        <rect x="0" y="0" width="96" height="96" rx="12" fill="#FFFFFF"/> 
+        
+        <text x="48" y="68" text-anchor="middle" font-family="Inter, sans-serif" font-size="44" fill="#E91E63" font-weight="700">W</text> 
+    </g> 
+</svg>
