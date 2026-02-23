@@ -1,5 +1,4 @@
 # wordcraft
-
 Wordcraft - Gerador Profissional de Caça-Palavras é uma ferramenta web moderna e intuitiva projetada para educadores, pais e entusiastas de puzzles. 
 Diferente de geradores antigos e complexos, o Wordcraft foca na simplicidade, permitindo criar, personalizar e exportar caça-palavras de alta qualidade em segundos.
 
